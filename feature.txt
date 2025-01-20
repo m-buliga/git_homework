@@ -1,0 +1,2 @@
+My line about Git or GitHub: 
+Using terminal commands to work with Git repository looks challenging, but satisfying at the same time (when it works) :D
